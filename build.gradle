@@ -4,7 +4,7 @@ buildscript {
     }
     dependencies {
         // Plugin para autoversionar.
-        classpath 'gusvmx.plugin:gradle-release:2.7.2-SNAPSHOT'
+        classpath 'gusvmx.plugin:gradle-release:2.7.2'
     }
 }
 
